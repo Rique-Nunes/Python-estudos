@@ -1,0 +1,31 @@
+# Biblioteca que manipula arquivos e pastas
+# os.listdir('C:\\')
+# os.chdir('C:\\')
+# os.getcwd()
+# os.mkdir('Teste')
+# os.chdir('C:\\Teste')
+# pasta_nova = 'Teste2'
+# pasta_pai = 'C:\\'
+# caminho_completo = os.path.join(pasta_pai, pasta_nova)
+# os.mkdir(caminho_completo)
+# os.listdir('C:\\')
+# os.rename('C:\\Teste2', 'C:\\Teste10')
+# os.rmdir('C:\\Teste10')
+# os.path.basename(os.getcwd())
+# os.path.dirname(os.getcwd())
+# pasta_pai = os.getcwd()
+# novas_pastas = 'América\\Brasil\\Ilhabela'
+# caminho = os.path.join(pasta_pai, novas_pastas)
+# print(caminho)
+# os.makedirs(caminho)
+# veja a pasta no win explore
+# os.path.exists('C:\\Teste\\America')
+# os.path.isdir('C:\\Teste\\America')
+# os.path.isfile('C:\\Teste\\America')
+# manipulador = open('arq.txt', 'x')
+# manipulador.close()
+# os.listdir()
+# arquivo = os.path.base('C:\\Teste\\arq.txt')
+# print(arquivo)
+# os.path.splitext(arquivo)
+# os.remove('arq.txt')

@@ -1,0 +1,1 @@
+print("A aula foi sobre terminal GitHub")
